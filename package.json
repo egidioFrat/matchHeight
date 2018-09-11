@@ -1,0 +1,7 @@
+{
+  "name": "matchHeight",
+  "description": "es6 js function to equalize heights of blocks",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {}
+}
